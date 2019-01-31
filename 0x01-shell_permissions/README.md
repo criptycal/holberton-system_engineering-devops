@@ -1,0 +1,1 @@
+in this folder we can watch scripts that can serve to change permissions on Linux OS
