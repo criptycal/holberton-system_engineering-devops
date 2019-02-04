@@ -1,0 +1,1 @@
+in this folder you can find important information about shell
