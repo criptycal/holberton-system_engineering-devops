@@ -1,2 +1,2 @@
 #!/bin/bash
-BETTY='Holberton' #create a local variable
+BETTY="Holberton" #create a local variable
